@@ -1,7 +1,5 @@
 {
-  "versao_sistema": "1.0.1", 
-  "arquivos": {
-    "tela_caixa.exe": "https://link-do-seu-novo-caixa.exe",
-    "Servidor.exe": "https://link-do-seu-novo-servidor.exe"
-  }
+    "versao": "1.1",
+    "url_download": "COLOQUE_O_LINK_DO_ZIP_AQUI",
+    "notas": "Atualização: Gestor Delivery e Impressão opcional adicionados."
 }
